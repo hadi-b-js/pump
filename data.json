@@ -1,0 +1,48 @@
+{
+  "expenses": [
+    { "name": "مخزن", "Price": [8722890], "invoice": ["makhzan.jpg"] },
+    {
+      "name": "پمپ و منبع تحت فشار",
+      "Price": [16800000],
+      "invoice": ["pump.jpg"]
+    },
+    {
+      "name": "پرشرسوئیچ و شلنگ و گیج و پنج راهی + حمل",
+      "Price": [1880000, 128000],
+      "invoice": ["pressure_switch.jpg"]
+    },
+    {
+      "name": "لوله و اتصالات پمپ + درصد مرجوعی",
+      "Price": [6102400, 524000, 345000, -1000000],
+      "invoice": ["pump_pipes1.jpg", "pump_pipes2.jpg", "pump_pipes3.jpg"]
+    },
+    {
+      "name": "لوله و اتصالات حیاط",
+      "Price": [1983000],
+      "invoice": ["yardpipes1.jpg", "yardpipes2.jpg"]
+    },
+    { "name": "دستمزد نصاب", "Price": [8500000], "invoice": ["nasb.jpg"] },
+    {
+      "name": "حفاظ و نصب",
+      "Price": [6000000],
+      "invoice": ["hefaz.jpg"]
+    },
+    {
+      "name": "کارشناس آب و فاضلاب و محاسبات",
+      "Price": [400000],
+      "invoice": []
+    },
+    { "name": "بازسازی حیاط و دیوار و بنایی ", "Price": [0], "invoice": [] },
+    { "name": "نظافت", "Price": [0], "invoice": [] }
+  ],
+
+  "shares": [
+    { "name": "خانم قاسمی", "floor": 1, "deposits": [8000000, 8795097] },
+    { "name": "آقای عابدینی", "floor": 2, "deposits": [8000000, 8795097] },
+    {
+      "name": "آقای باقری",
+      "floor": 3,
+      "deposits": [8000000, 1522000, 7273097]
+    }
+  ]
+}
